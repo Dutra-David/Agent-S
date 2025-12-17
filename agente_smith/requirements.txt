@@ -1,0 +1,35 @@
+# Agente Smith - Requirements
+# Core Dependencies
+adb-shell==0.3.0
+Pillow==10.1.0
+numpy==1.24.3
+pyautogui==0.9.53
+
+# AI & Voice Recognition
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+OpenAI==1.0.0
+anthropicapi==0.2.0
+
+# WhatsApp & Telegram Integration
+python-telegram-bot==20.7
+pywa==1.0.0
+requests==2.31.0
+
+# Scheduling & Task Management
+APScheduler==3.10.4
+
+# Database & Storage
+SQLAlchemy==2.0.23
+python-dotenv==1.0.0
+
+# Logging & Monitoring
+python-json-logger==2.0.7
+
+# FastAPI (for API REST later)
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.23.2
