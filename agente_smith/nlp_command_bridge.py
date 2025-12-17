@@ -12,6 +12,8 @@ from datetime import datetime
 
 from nlp_processor import NLPProcessor, SentenceEmbedding
 from command_parser import CommandParser, ParsedCommand, CommandType
+from ml_enhanced_nlp import MLEnhancedNLP, MLEnhancedResult
+import time
 
 # Setup logging
 logging.basicConfig(
