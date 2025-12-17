@@ -1,0 +1,139 @@
+# FastText Intent Classification Dataset - Portuguese
+# Format: __label__intent_name command_text
+# Week 4: Agente Smith ML Enhancement
+
+# OPEN APP
+__label__open_app Abre o WhatsApp
+__label__open_app Abra o Telegram
+__label__open_app Inicia o Messenger
+__label__open_app Abre o Facebook
+__label__open_app Abra o Instagram
+__label__open_app Inicia o Gmail
+__label__open_app Abre o Navegador
+__label__open_app Abra o Maps
+__label__open_app Abre o Calendario
+__label__open_app Abra a Camera
+__label__open_app Inicia o Spotify
+__label__open_app Abre o YouTube
+__label__open_app Abra o Uber
+__label__open_app Abre o App de banco
+__label__open_app Inicia aplicativo de fotos
+
+# CLOSE APP
+__label__close_app Fecha o WhatsApp
+__label__close_app Feche o Telegram
+__label__close_app Encerra o Messenger
+__label__close_app Fecha o Facebook
+__label__close_app Feche o Instagram
+__label__close_app Encerra o Gmail
+__label__close_app Fecha o Navegador
+__label__close_app Feche o Maps
+__label__close_app Encerra o Calendario
+__label__close_app Fecha a Camera
+__label__close_app Feche o Spotify
+__label__close_app Encerra o YouTube
+__label__close_app Fecha o app
+__label__close_app Desliga aplicativo
+__label__close_app Encerra tudo
+
+# SEND MESSAGE
+__label__send_message Manda WhatsApp para Joao
+__label__send_message Envia mensagem para Maria
+__label__send_message Manda SMS para Pedro
+__label__send_message Envia email para chefe
+__label__send_message Manda msg para Ana
+__label__send_message Escreve para Marcos
+__label__send_message Envia recado para Julia
+__label__send_message Manda mensagem de texto
+__label__send_message Envia msg para Carlos
+__label__send_message Manda oi para Lucia
+__label__send_message Escreve email
+__label__send_message Envia mensagem de confirmacao
+__label__send_message Manda aviso para equipe
+__label__send_message Envia notificacao urgente
+__label__send_message Manda resposta para Felipe
+
+# CALL
+__label__call Liga para Joao
+__label__call Faz ligacao para Maria
+__label__call Disca para Pedro
+__label__call Faz video chamada com Ana
+__label__call Liga video call para Carlos
+__label__call Disca numero de Lucia
+__label__call Faz ligacao de voz para Marcos
+__label__call Liga para casa
+__label__call Disca para trabalho
+__label__call Faz chamada urgente
+__label__call Liga numero de emergencia
+__label__call Faz video conferencia com equipe
+__label__call Disca numero do banco
+__label__call Liga para suporte
+__label__call Faz chamada de negocio
+
+# TAKE SCREENSHOT
+__label__take_screenshot Tira foto da tela
+__label__take_screenshot Captura de tela
+__label__take_screenshot Faz screenshot
+__label__take_screenshot Salva tela como imagem
+__label__take_screenshot Print screen
+__label__take_screenshot Captura tela
+__label__take_screenshot Tirar screenshot
+__label__take_screenshot Faz print
+__label__take_screenshot Captura de imagem
+__label__take_screenshot Salva o que esta na tela
+__label__take_screenshot Print da tela
+__label__take_screenshot Tira print
+__label__take_screenshot Captura tudo
+__label__take_screenshot Screenshot agora
+__label__take_screenshot Faz foto da tela
+
+# SCHEDULE
+__label__schedule Agenda reuniao para amanha
+__label__schedule Marca reuniao com equipe
+__label__schedule Agenda consulta dentaria
+__label__schedule Marca voo para sao paulo
+__label__schedule Agenda ligacao para segunda
+__label__schedule Marca compromisso
+__label__schedule Agenda lembrete
+__label__schedule Marca entrevista
+__label__schedule Agenda apresentacao
+__label__schedule Marca evento para fim de semana
+__label__schedule Agenda chamada de negocios
+__label__schedule Marca almoco com cliente
+__label__schedule Agenda aula para terca
+__label__schedule Marca consulta medica
+__label__schedule Agenda evento importante
+
+# OPEN URL
+__label__open_url Abre o google
+__label__open_url Acessa youtube
+__label__open_url Abre facebook
+__label__open_url Vai para linkedin
+__label__open_url Abre github
+__label__open_url Acessa amazon
+__label__open_url Abre reddit
+__label__open_url Vai para wikipedia
+__label__open_url Abre site da empresa
+__label__open_url Acessa email
+__label__open_url Abre whatsapp web
+__label__open_url Vai para buscador
+__label__open_url Abre navegador
+__label__open_url Acessa codigo qr
+__label__open_url Abre link
+
+# HELP
+__label__help Qual seu nome
+__label__help Pode me ajudar
+__label__help Como voce funciona
+__label__help Preciso de ajuda
+__label__help Nao entendi
+__label__help Pode repetir
+__label__help Como faco para
+__label__help Qual e sua funcao
+__label__help Pode me explicar
+__label__help Nao sei usar
+__label__help Preciso de suporte
+__label__help Como utilizar
+__label__help Me orienta
+__label__help Voce consegue fazer o que
+__label__help Pode me orientar
